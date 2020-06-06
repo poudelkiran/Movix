@@ -39,11 +39,8 @@ Fetch movie and its details from API.
 </tr>
 <tr>
 <td><img src="https://github.com/poudelkiran/movix/blob/master/screenshots/castPage.png" alt="Cast View"/></td>
-
+<td><img src="https://github.com/poudelkiran/movix/blob/master/screenshots/searchPage.png" alt="Search Page"/></td>
 <td><img src="https://github.com/poudelkiran/movix/blob/master/screenshots/noInternet.png" alt="No Internet"/></td>
-
-
-
 </tr>
 
 </table>
