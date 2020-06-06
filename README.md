@@ -3,7 +3,6 @@ Fetch movie and its details from API.
 
 ## Features
 <ul>
-<li>Includes:-</li>
 <li>Bloc Pattern</li>
 <li>RxDart</li>
 <li>Networking</li>
